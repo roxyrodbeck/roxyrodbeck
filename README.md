@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Roxy.
 
-I am community taught, 1.5 years in. Shout out to 100devs, Scrimba, and freeCodeCamp.  
+I am a community taught Frontend Dev, 1.5 years in. Shout out to 100devs, Scrimba, and freeCodeCamp.  
 
 I am currently learning React and Tailwind.  
 
