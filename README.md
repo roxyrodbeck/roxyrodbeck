@@ -1,6 +1,6 @@
 ## Hi! 👋 I'm Roxy.
 
-I am a community taught SWE ~two years in. 
+I am a community taught SWE ~two years in on the hunt for a dev rel or support engineer role.
 
 I was recently on Web Dev Challenge (season 2 episode 3) and emceed at RenderATL 2025.
 
