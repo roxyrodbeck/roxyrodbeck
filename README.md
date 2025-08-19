@@ -1,8 +1,8 @@
 ## Hi! 👋 I'm Roxy.
 
-I am a community taught SWE two years in. 
+I am a community taught SWE ~two years in. 
 
-I am currently learning React and Tailwind.  
+I was recently on Web Dev Challenge (season 2 episode 3) and emceed at RenderATL 2025.
 
 My background is in education, specifically secondary math and library sciences.  
 
